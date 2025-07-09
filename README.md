@@ -112,10 +112,3 @@ These tools are embedded via WebView to ensure fast performance without bloating
 ├── PaymentScreen.js
 ├── OrderHistoryScreen.js
 └── OutScreen.js
----
-
-## 📃 License
-
-MIT – free to use, remix, and improve with attribution.
-
----
