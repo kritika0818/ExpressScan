@@ -104,11 +104,22 @@ These tools are embedded via WebView to ensure fast performance without bloating
 ## 📂 Folder Structure
 
 /screens/
+
 ├── LoginScreen.js
+
+├── HomeScreen.js
+
 ├── HomeTab.js
-├── CartScreen.js
-├── OffersScreen.js
-├── ProfileScreen.js
+
+  ├── CartScreen.js
+  
+  ├── OffersScreen.js
+  
+  ├── ProfileScreen.js
+
+  ├── HomeTabHomeScreen.js
+  
 ├── PaymentScreen.js
+
 ├── OrderHistoryScreen.js
-└── OutScreen.js
+
