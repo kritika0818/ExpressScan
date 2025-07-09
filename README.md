@@ -1,7 +1,6 @@
 # 🛒 ExpressScan – A Scan & Go Self-Checkout App for Smart Retail
 
 > Built for Walmart Sparkathon 2025  
-> By Team: Kritika Magnani & Kashish
 
 ---
 
