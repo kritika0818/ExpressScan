@@ -111,13 +111,13 @@ These tools are embedded via WebView to ensure fast performance without bloating
 
 ├── HomeTab.js
 
-  ├── CartScreen.js
+│ ├── CartScreen.js
   
-  ├── OffersScreen.js
+│ ├── OffersScreen.js
   
-  ├── ProfileScreen.js
+│ ├── ProfileScreen.js
 
-  ├── HomeTabHomeScreen.js
+│ ├── HomeTabHomeScreen.js
   
 ├── PaymentScreen.js
 
